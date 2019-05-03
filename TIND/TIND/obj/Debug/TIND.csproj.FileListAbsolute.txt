@@ -1,0 +1,12 @@
+c:\users\ifsp\documents\visual studio 2012\Projects\TIND\TIND\bin\Debug\TIND.exe.config
+c:\users\ifsp\documents\visual studio 2012\Projects\TIND\TIND\bin\Debug\TIND.exe
+c:\users\ifsp\documents\visual studio 2012\Projects\TIND\TIND\bin\Debug\TIND.pdb
+c:\users\ifsp\documents\visual studio 2012\Projects\TIND\TIND\obj\Debug\TIND.csprojResolveAssemblyReference.cache
+c:\users\ifsp\documents\visual studio 2012\Projects\TIND\TIND\obj\Debug\TIND.Form1.resources
+c:\users\ifsp\documents\visual studio 2012\Projects\TIND\TIND\obj\Debug\TIND.Properties.Resources.resources
+c:\users\ifsp\documents\visual studio 2012\Projects\TIND\TIND\obj\Debug\TIND.csproj.GenerateResource.Cache
+c:\users\ifsp\documents\visual studio 2012\Projects\TIND\TIND\obj\Debug\TIND.exe
+c:\users\ifsp\documents\visual studio 2012\Projects\TIND\TIND\obj\Debug\TIND.pdb
+D:\TIND\TIND\bin\Debug\TIND.exe.config
+D:\TIND\TIND\obj\Debug\TIND.exe
+D:\TIND\TIND\obj\Debug\TIND.pdb
