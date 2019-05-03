@@ -13,7 +13,7 @@ namespace TIND
 
         public void conectar()
         {
-            conexao.ConnectionString = @"";
+            conexao.ConnectionString = @"Data Source=(LocalDB)\v11.0;AttachDbFilename=D:\TIND\TIND\TINDIFSP.mdf";
             conexao.Open();
         }
 

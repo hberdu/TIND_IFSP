@@ -19,6 +19,8 @@ namespace TIND
 
         private void btnCadastroP_Click(object sender, EventArgs e)
         {
+            CadastroProfessor frm = new CadastroProfessor();
+            frm.ShowDialog();
         }
 
         private void btnCadastroM_Click(object sender, EventArgs e)

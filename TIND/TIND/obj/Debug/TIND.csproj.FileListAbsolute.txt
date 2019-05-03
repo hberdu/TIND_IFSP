@@ -17,3 +17,5 @@ D:\TIND\TIND\obj\Debug\TIND.CadastroProfessor.resources
 D:\TIND\TIND\obj\Debug\TIND.Form1.resources
 D:\TIND\TIND\obj\Debug\TIND.Properties.Resources.resources
 D:\TIND\TIND\obj\Debug\TIND.csproj.GenerateResource.Cache
+D:\TIND\TIND\bin\Debug\TINDIFSP.mdf
+D:\TIND\TIND\bin\Debug\TINDIFSP_log.ldf
