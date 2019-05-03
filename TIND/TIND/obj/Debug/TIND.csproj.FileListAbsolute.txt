@@ -10,3 +10,10 @@ c:\users\ifsp\documents\visual studio 2012\Projects\TIND\TIND\obj\Debug\TIND.pdb
 D:\TIND\TIND\bin\Debug\TIND.exe.config
 D:\TIND\TIND\obj\Debug\TIND.exe
 D:\TIND\TIND\obj\Debug\TIND.pdb
+D:\TIND\TIND\bin\Debug\TIND.exe
+D:\TIND\TIND\bin\Debug\TIND.pdb
+D:\TIND\TIND\obj\Debug\TIND.csprojResolveAssemblyReference.cache
+D:\TIND\TIND\obj\Debug\TIND.CadastroProfessor.resources
+D:\TIND\TIND\obj\Debug\TIND.Form1.resources
+D:\TIND\TIND\obj\Debug\TIND.Properties.Resources.resources
+D:\TIND\TIND\obj\Debug\TIND.csproj.GenerateResource.Cache
